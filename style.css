@@ -1,0 +1,85 @@
+body 
+{
+    font-family:"Dancing Script", cursive ; 
+    background-color: aqua;
+
+}
+
+.header_div
+{
+    background:azure;
+    color:black;
+}
+
+.header_div img
+
+{
+    width: 100px;
+}
+
+.main_div
+{
+    background: cornsilk;
+    padding:10px;
+    margin-top: 15px;
+    border:3px solid whitesmoke;
+}
+
+
+.main_div label
+{
+   background: violet ;
+   width:310px;
+   padding:10px;
+   margin-bottom: 0px;
+   box-shadow: 10px 10px 20px rosybrown;
+   font-size:25px;
+}
+
+#camera , #result
+{
+    border:2px solid darkcyan;
+    width:310px;
+    height:300px;
+    box-shadow: 10px 10px 20px rosybrown;
+}
+
+.main_div button
+{
+   width:310px;
+   font-size: 25px;
+   box-shadow: 10px 10px 20px rosybrown;
+   border:1px solid whitesmoke;
+}
+
+.footer_div
+{
+    margin-bottom: 50px ;
+}
+
+.footer_div h4
+{
+    background-color:cornsilk;
+    border-color: blueviolet;
+    border-radius: 10px;
+    padding:5px;
+    box-shadow: 10px 10px 20px rosybrown;
+}
+
+.footer_div img
+{
+  width: 75px;
+  
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    background-color: turquoise;
+    color:black;
+    bottom:0px;
+    width:100%;
+    font-size:20px;
+    text-align:center;
+
+}
